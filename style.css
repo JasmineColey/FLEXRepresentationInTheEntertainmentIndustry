@@ -1,0 +1,111 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: serif;
+  font-size: 2vmin;
+  box-sizing: border-box;
+  background-color:#7B1919
+
+
+}
+.nav{  box-sizing: border-box;
+  padding: 14px
+
+
+}
+  ul {
+    list-style-type: none;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;}
+
+  li a {box-sizing: border-box;
+      text-decoration: underline;
+      font-family: serif;
+      font-size: 35px;
+      color:#FFFFFF;
+
+
+
+  }
+
+  li a:hover {
+      color:#304FFE;
+  }
+
+.mainContainer {
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-weight: bold;
+  padding: 2vmin;
+  border-radius: 2vmin;
+}
+html {
+
+height: 100px
+}
+
+
+
+.heroTitle {
+border: 5px solid #ABB2B9;
+background-image: url('https://www.legalzoom.com/sites/legalzoom.com/files/uploaded/articles/film.jpg');
+height: 100vh;
+background-size: cover;
+background-repeat: no-repeat;
+font-family: serif
+background-position: center;
+padding: 80px;
+font-size: 20pt;
+text-align:center;
+color: #304FFE;
+}
+
+.mainTitleText {
+font-size: 64pt;
+font-family: serif
+font-color: #;
+font-family:serif;
+
+}
+
+.mainContainer {
+padding-top: 200px;
+
+}
+
+.contentContainer {
+  text-align: center;
+  color:#FFFFFF;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+font-size: 24px
+}
+
+.sectionHeader{
+
+}
+
+p { font-family: serif
+}
+
+.thumbnailContainer {
+margin-top: 64px;
+display: flex;
+flex-wrap: wrap;
+}
+
+.thumbnail {
+width: 33%;
+height: 33%;
+}
+
+.columnContainer {
+
+}
